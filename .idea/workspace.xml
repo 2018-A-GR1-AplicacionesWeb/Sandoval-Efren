@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48c8299b-689d-48d3-ac94-d60e47bac8ee" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03NestJS/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/03NestJS/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03NestJS/src/foto/foto.entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03NestJS/src/foto/foto.entity.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03NestJS/src/usuario/usuario.entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03NestJS/src/usuario/usuario.entity.ts" afterDir="false" />
-    </list>
+    <list default="true" id="48c8299b-689d-48d3-ac94-d60e47bac8ee" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -183,12 +178,12 @@
       <workItem from="1526917851134" duration="298000" />
       <workItem from="1526919302338" duration="1359000" />
       <workItem from="1527085614734" duration="10000" />
-      <workItem from="1527085673661" duration="1732000" />
+      <workItem from="1527085673661" duration="2102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3852000" />
+    <option name="totallyTimeSpent" value="4222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
