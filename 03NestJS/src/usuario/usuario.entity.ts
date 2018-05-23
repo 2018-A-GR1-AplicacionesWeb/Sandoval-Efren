@@ -1,7 +1,7 @@
 import {Column, Entity, OneToMany, PrimaryGeneratedColumn} from "typeorm";
 import {FotoEntity} from "../foto/foto.entity";
 
-@Entity('web_eguezv_usuario')
+@Entity('web_sandoval_usuario')
 export class UsuarioEntity {
 
     @PrimaryGeneratedColumn()
@@ -12,7 +12,7 @@ export class UsuarioEntity {
 
     @OneToMany(
         type => FotoEntity,
-        fotoEntity => fotoEntity.usuarioId)
+        fotoEntity => fotoEntity.id)
     fotos: FotoEntity[];
 
 

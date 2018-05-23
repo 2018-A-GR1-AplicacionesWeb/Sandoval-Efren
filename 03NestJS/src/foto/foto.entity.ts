@@ -2,7 +2,7 @@ import {Column, Entity, ManyToOne, PrimaryGeneratedColumn} from "typeorm";
 import {UsuarioEntity} from "../usuario/usuario.entity";
 
 
-@Entity('web_eguezv_foto')
+@Entity('web_sandoval_foto')
 export class FotoEntity {
     @PrimaryGeneratedColumn()
     id: number;
