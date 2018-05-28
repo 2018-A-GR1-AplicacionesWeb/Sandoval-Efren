@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48c8299b-689d-48d3-ac94-d60e47bac8ee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/03NestJS/src/exceptions/peticion-erronea-exception.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03NestJS/src/guards/crear-usuario.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03NestJS/src/usuario/usuario.schema.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03NestJS/src/pipes/usuario.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03NestJS/src/pipes/usuario.pipe.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03NestJS/src/usuario.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03NestJS/src/usuario.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03NestJS/src/usuario/usuario.entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03NestJS/src/usuario/usuario.entity.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tarea5/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tarea5/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -167,9 +159,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="75" />
-    <option name="y" value="201" />
-    <option name="width" value="1400" />
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -185,52 +175,6 @@
               <item name="Sandoval-Efren" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sandoval-Efren" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Sandoval-Efren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sandoval-Efren" type="462c0819:PsiDirectoryNode" />
-              <item name="03NestJS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandoval-Efren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sandoval-Efren" type="462c0819:PsiDirectoryNode" />
-              <item name="03NestJS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandoval-Efren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sandoval-Efren" type="462c0819:PsiDirectoryNode" />
-              <item name="03NestJS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandoval-Efren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sandoval-Efren" type="462c0819:PsiDirectoryNode" />
-              <item name="03NestJS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="foto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandoval-Efren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sandoval-Efren" type="462c0819:PsiDirectoryNode" />
-              <item name="03NestJS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="guards" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandoval-Efren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sandoval-Efren" type="462c0819:PsiDirectoryNode" />
-              <item name="03NestJS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pipes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandoval-Efren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sandoval-Efren" type="462c0819:PsiDirectoryNode" />
-              <item name="03NestJS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="usuario" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -243,7 +187,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RunDashboard">
@@ -272,16 +216,15 @@
       <workItem from="1526917851134" duration="298000" />
       <workItem from="1526919302338" duration="1359000" />
       <workItem from="1527085614734" duration="10000" />
-      <workItem from="1527085673661" duration="6536000" />
+      <workItem from="1527085673661" duration="6957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8656000" />
+    <option name="totallyTimeSpent" value="9077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
